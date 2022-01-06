@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Personal information
 
-You can use the [editor on GitHub](https://github.com/jieeeeeeeeeee/Curriculum_vitae/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Address: School of Geodesy and Geomatics, Wuhan University, Wuhan, Hubei, 430079, P.R. China  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+E-mail: quyj_whu@whu.edu.cn   
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+GitHub: https://github.com/jieeeeeeeeeee  
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Education
 
-- Bulleted
-- List
+**Ph.D. in Photogrammetry and Computer Vision, 09/2020 ~ now**   
+School of Geodesy and Geomatics, Wuhan University  
+**Master in Photogrammetry and Computer Vision, 09/2017~06/2020**  
+School of Geodesy and Geomatics, Wuhan University  
+**Bachelor in Geographic Information System (GIS), 2013.09~2017.06**  
+School of Hydraulic Science and Engineering, Zhengzhou University  
 
-1. Numbered
-2. List
+## Research experiences 
 
-**Bold** and _Italic_ and `Code` text
+**Multi-view 3d reconstruction for satellite images, 06/2020 - now**   
+Building a system of satellite image 3d reconstruction with RPC bundle adjustment, multi-view stereo, mesh reconstruction, mesh refinement and texture mapping.  
+This is the sample result.
+![avatar](00.PNG)
+![avatar](01.png)
 
-[Link](url) and ![Image](src)
-```
+**High quality and low-noise Variational mesh refinement, 09/2018 - 06/2020**   
+This is the sample result.  
+![avatar](03.PNG)  
+![avatar](04.PNG)  
+ 
+## Publications
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jieeeeeeeeeee/Curriculum_vitae/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[1] Zhu Y, Yan Q, **Qu Y**, et al. View selection strategy for photo-consistency refinement[J]. Acta Geodaetica et Cartographica Sinica, 2020, 49(11): 1463-1472.  
+[2] Deng F, Chen X, Yan Q, **Qu Y**, et al. Variational refinement of mesh with line constraint for photogrammetry[J]. Acta Geodaetica et Cartographica Sinica, 2020, 49(4): 469-479.
