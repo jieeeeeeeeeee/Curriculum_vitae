@@ -32,7 +32,11 @@ This is the sample result.
 This is the sample result.  
 ![avatar](03.PNG)  
 ![avatar](04.PNG)  
- 
+
+**DSM refinement based on contour constraints, 2021** 
+![avatar](07.PNG)
+![avatar](08.PNG)
+
 ## Publications
 
 [1] Zhu Y, Yan Q, **Qu Y**, et al. View selection strategy for photo-consistency refinement[J]. Acta Geodaetica et Cartographica Sinica, 2020, 49(11): 1463-1472.  
