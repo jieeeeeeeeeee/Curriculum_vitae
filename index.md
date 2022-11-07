@@ -37,6 +37,12 @@ This is the sample result.
 ![avatar](07.PNG)
 ![avatar](08.PNG)
 
+**Demo of satellite reconstruction in Florida, America(25km2).** 
+![avatar](09.PNG)
+![avatar](10.PNG)
+![avatar](11.PNG)
+![avatar](12.PNG)
+
 ## Publications
 
 [1] Zhu Y, Yan Q, **Qu Y**, et al. View selection strategy for photo-consistency refinement[J]. Acta Geodaetica et Cartographica Sinica, 2020, 49(11): 1463-1472.  
