@@ -39,10 +39,11 @@ This is the sample result.
 ![avatar](08.PNG)
 
 **Demo of satellite reconstruction in Florida, America(25km2). 2022** 
+![avatar](09.png)
+![avatar](10.png)
+![avatar](11.png)
+![avatar](12.png)
 
-![avatar](10.PNG)
-![avatar](11.PNG)
-![avatar](12.PNG)
 
 ## Publications
 
