@@ -40,11 +40,9 @@ This is the sample result.
 
 **Demo of satellite reconstruction in Florida, America(25km2). 2022** 
 
-#![avatar](09.PNG)
 ![avatar](10.PNG)
 ![avatar](11.PNG)
 ![avatar](12.PNG)
-
 
 ## Publications
 
