@@ -50,7 +50,7 @@ High-quality model reconstruction of multi-view images using neural radiation fi
 基于神经辐射场的卫星多视图高质量三维重建.详情见 https://jieeeeeeeeeee.github.io/sat-mesh/.
 
 
-![Alt text](20230910-085459.jpg)  
+![Alt text](16.png)  
 
 <video src="20230910-085644.mp4" controls title="Title" width="768"></video>
 <video src="20230910-085506.mp4" controls title="Title" width="768"></video>
@@ -69,6 +69,7 @@ High-quality model reconstruction of multi-view images using neural radiation fi
 **美国佛罗里达州的卫星三维重建结果. 2022** 
 
 ![avatar](09.png)
+![avatar](091.PNG)
 ![Alt text](14-1.png)
 ![avatar](10.png)
 
