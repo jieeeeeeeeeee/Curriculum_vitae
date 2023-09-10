@@ -52,9 +52,6 @@ High-quality model reconstruction of multi-view images using neural radiation fi
 
 ![Alt text](20230910-085459.jpg)  
 
-<video src="20230910-085644.mp4" controls title="Title" width="768"></video>
-<video src="20230910-085506.mp4" controls title="Title" width="768"></video>
-<video src="20230910-085211.mp4" controls title="Title" width="768"></video>
 
   
 **DSM refinement based on contour constraints, 2021** 
@@ -65,7 +62,9 @@ High-quality model reconstruction of multi-view images using neural radiation fi
 ![avatar](08.PNG)
 
 **Demo of satellite reconstruction in Florida, America(25km2). 2022** 
-**Demo of satellite reconstruction in Florida, America(25km2). 2022** 
+
+**美国佛罗里达州的卫星三维重建结果. 2022** 
+
 ![avatar](09.png)
 ![Alt text](14-1.png)
 ![avatar](10.png)
