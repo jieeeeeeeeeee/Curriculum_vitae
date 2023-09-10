@@ -76,3 +76,4 @@ High-quality model reconstruction of multi-view images using neural radiation fi
 [1]**Qu Y**., & Deng, F. (2023). Sat-Mesh: Learning Neural Implicit Surfaces for Multi-View Satellite Reconstruction. Remote Sensing, 15(17), 4297.   
 [2] **Qu Y**, Yan Q, Deng F, et al. Total differential photometric mesh refinement with self-adapted mesh denoising. Photonics. 2023; 10(1):20. https://doi.org/10.3390/photonics10010020.   
 [3] **Qu Y**, Yan Q, Deng F, et al. Satellite True Digital Orthophoto Map Generation Without Elevation Data: A New NeRF-based Method. International Journal of Remote Sensing Letter 
+
