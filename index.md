@@ -32,13 +32,14 @@ This is the sample result.
 High-quality model reconstruction of multi-view images using neural radiation field technique. See https://jieeeeeeeeeee.github.io/sat-mesh/.
 
 ![Alt text](20230910-085459.jpg)
-<!-- <video src="20230910-085644.mp4" controls title="Title" ></video>
+<video src="20230910-085644.mp4" controls title="Title" ></video>
 <video src="20230910-085506.mp4" controls title="Title" ></video>
-<video src="20230910-085211.mp4" controls title="Title" ></video> -->
+<video src="20230910-085211.mp4" controls title="Title" ></video> 
+
 <!-- <video src="20230910-085644.mp4" controls title="Title" width="1024"></video>
 <video src="20230910-085644.mp4" controls title="Title" style="max-width: 100%; height: auto;"></video> -->
 
-
+  
 **DSM refinement based on contour constraints, 2021** 
 ![avatar](07.PNG)
 ![avatar](08.PNG)
